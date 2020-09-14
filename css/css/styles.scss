@@ -1,0 +1,35 @@
+$green:#66ff9c;
+$yellow:#f5ff66;
+$red: #ff4a4c;
+$blue: #43a1e6;
+$white: #ffffff;
+body{
+    background-color: $green;
+    color: black ;
+}
+.familiar{
+    flex: 1 150px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    background-color: $red;
+    color: black ;
+}
+footer{
+    background-color: aquamarine;   
+}
+nav{
+    margin-bottom: 10px;
+}
+.titulo{
+    margin-top: 60px;
+    background-color: yellowgreen;
+}
+.collapse{
+    color: teal;
+}
+.nav-pills{
+    margin-right: 20px;
+}
+.jumbotron{
+    background-color: $yellow;
+}

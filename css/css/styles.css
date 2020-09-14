@@ -1,0 +1,40 @@
+body {
+  background-color: #66ff9c;
+  color: black;
+}
+
+.familiar {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 150px;
+          flex: 1 150px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+  background-color: #ff4a4c;
+  color: black;
+}
+
+footer {
+  background-color: aquamarine;
+}
+
+nav {
+  margin-bottom: 10px;
+}
+
+.titulo {
+  margin-top: 60px;
+  background-color: yellowgreen;
+}
+
+.collapse {
+  color: teal;
+}
+
+.nav-pills {
+  margin-right: 20px;
+}
+
+.jumbotron {
+  background-color: #f5ff66;
+}
+/*# sourceMappingURL=styles.css.map */
